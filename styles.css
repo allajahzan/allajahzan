@@ -1,0 +1,137 @@
+body {
+
+      margin: 0px;
+      font-family: Sacramento,cursive;
+      }
+hr {
+  height: 0px;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 6px;
+
+
+}
+h1 {
+  margin-top: 0px;
+  font-size: 60px;
+}
+p {
+  font-family: cursive;
+}
+.image {
+  width: 100%;
+
+}
+.top-container {
+  text-align: center;
+}
+
+.first
+ {
+   padding-top: 60px;
+   background-color:#FAF1E6;
+   height: 320px;
+   width: 370px;
+   position: absolute;
+   top: 170px;
+   left: 575px;
+
+  text-align: center;
+}
+
+.middle-container
+{
+  height: 360px;
+  width: 100%;
+  background-color: #FAF1E6;
+  text-align: center;
+
+}
+.allaj {
+  position: relative;
+  height: 250px;
+  bottom: 130px;
+}
+.aa {
+  position: relative;
+  bottom: 130px;
+}
+
+.bottom-container
+{
+  height: 450px;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  position: relative;
+
+
+}
+
+
+.fullstack {
+  text-decoration: underline;
+}
+.container1 {
+  width: 100%;
+  height: 550px;
+ background-color: #FAF1E6;
+}
+.fourth-container
+ {
+  height: 450px;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  position: relative;
+
+}
+.container {
+  width: 100%;
+  height: 550px;
+ background-color: #FAF1E6;
+}
+.fivth-container {
+  height: 350px;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+.contact1 {
+  font-size: 40px;
+  text-decoration: underline;
+
+}
+.message2 {
+  font-size: 40px;
+  text-decoration: underline;
+
+}
+.contact {
+  text-align: center;
+  background-color: #FAF1E6;
+  height: 280px;
+}
+.message {
+  text-align: center;
+  background-color: white;
+}
+.link {
+  font-family: sans-serif;
+  font-size: 10px;
+  position: relative;
+  bottom: 40px;
+}
+.cont {
+  font-size: 20px;
+}
+.pp {
+  position: relative;
+  bottom: 30px;
+}
+.size {
+  font-size: 50px;
+}
+.skills {
+  height: 650px;
+}
