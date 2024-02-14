@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **MERN stack and Flutter**
 
-- 📫 How to reach me **https://allajahzan.github.io/portfolio_ahsanallajpk/**
+- 📫 How to reach me **https://allajahzan.github.io/ahsanallajpk_porfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
